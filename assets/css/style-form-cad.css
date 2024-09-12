@@ -18,6 +18,7 @@ body *{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    margin-top: 50px;
 }
 
 .left-login{
@@ -42,7 +43,7 @@ body *{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: -30px;
+    margin-top: 0px;
 }
 
 .link-cad > a{
